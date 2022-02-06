@@ -1,1 +1,103 @@
-# html-bolum-sonu-cal-smas-2
+# index.html
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ana Sayfa - Erenswork</title>
+</head>
+<body>
+   <!-- Navbar - Start -->
+   <header>
+       <nav>
+           <ul>
+               <li>
+                   <a href="index.html"> Ana Sayfa </a></li>
+                   <li>
+                       <a href="about.us.html">Hakkımızda</a></li>
+                       <li>
+                        <a href="contact.html"> İletişim </a></li>
+                        <li>
+                   </li>
+                </ul>
+       </nav>
+   </header>
+   <!-- Navbar - Start -->
+    <header>
+        <nav>
+            <ul>
+                <li>
+                    <a href="index.html">Ana Sayfa</a>
+                    <li>
+                        <a href="about.us.html">Hakkımızda</a>
+                    </li>
+                    <li>
+                        <a href="contact.html">İletişim</a>
+                    </li>
+                
+                </li>
+            </ul>
+        </nav>
+    </header>
+   <!-- Contect Start -->
+   <section><!-- Articles - Start -->
+    <article>
+        <h2>Ana Sayfa</h2>
+        <img src="https://picsum.photos/236/354" alt="Yazi2">
+        <p>Lorem ipsum dolor sit amet.
+        Dicta, magnam! Rerum, reiciendis quasi.</p>
+        <ol>
+            <li>Lorem, ipsum.</li>
+            <li>Exercitationem, repudiandae.</li>
+            <li>Odit, eveniet.</li>
+            <li>Totam, veritatis?</li>
+        </ol>            
+        <hr>
+    </article>
+    <article>
+        <h2>Hakkımızda</h2>
+        <img src="https://picsum.photos/56/354" alt="Yazi1">
+        <p>Lorem ipsum dolor sit amet.
+        Dicta, magnam! Rerum, reiciendis quasi.</p>
+        <ul>
+            <li>Lorem, ipsum.</li>
+            <li>Sint, repellendus?</li>
+            <li>Voluptas, nemo.</li>
+            <li>Hic, ipsa.</li>
+        </ul>
+        <hr>
+    </article>
+    <article>
+        <h2>İletişim</h2>
+        <img src="https://picsum.photos/536/354" alt="Yazi3">
+        <p>Lorem ipsum dolor sit amet.
+        Dicta, magnam! Rerum, reiciendis quasi.</p>
+        <hr>
+    </article>
+</section>
+        
+        <!-- Articles - End -->
+   <!-- Contend - End -->
+
+   <!-- Footer - Start -->
+   <footer>
+    <nav>
+        <ul>
+            <li>
+                <a href="index.html">Ana Sayfa</a>
+                <li>
+                    <a href="about.us.html">Hakkımızda</a>
+                </li>
+                <li>
+                    <a href="contact.html">İletişim</a>
+                </li>
+            
+            </li>
+        </ul>
+    </nav>
+   </footer>
+   <!-- Footer - End -->
+
+</body>
+</html>
